@@ -1,5 +1,4 @@
 GPG test
 Ivan Bukrieiev
-=======
 study
 test
