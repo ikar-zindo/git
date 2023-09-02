@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 GPG test
 Ivan Bukrieiev
 =======
 study
->>>>>>> 58599e6652ece89cd5e8e346cc76e7a499f9b5c1
 test
